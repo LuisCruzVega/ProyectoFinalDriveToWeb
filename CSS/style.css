@@ -277,7 +277,7 @@ div#Container-Cuadros-footer{
     
 }
 /*Pantallas extra pequeñas, menores a 768 xs--> col-xs*/
-@media (max-width: 767px) and (min-width: 374px){
+@media (max-width: 767px){
     .col-xs-12{
         width: 100%;
     }
